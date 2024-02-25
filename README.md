@@ -1,7 +1,3 @@
-Certainly! Here's the same README content formatted in Markdown for GitHub:
-
----
-
 # AiDA: Your Genius Math Assistant
 
 Welcome to AiDA, your next-generation AI-powered Math Assistant designed to enhance your mathematical understanding and problem-solving skills. Built with a mix of cutting-edge technologies including Streamlit, LangChain, OpenAI, and various community integrations, AiDA offers a unique conversational experience for exploring mathematical concepts through interactive dialogue and visualizations.
@@ -53,7 +49,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - The LangChain community for the abstractions and integrations.
 
 Start exploring mathematical concepts with AiDA today and see how AI can transform your learning journey!
-
----
-
-This README is formatted to be GitHub-friendly, ensuring a clean and structured presentation of your project. Replace placeholders (like the GitHub URL) with your project's specific information before publishing.
