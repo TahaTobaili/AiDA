@@ -1,46 +1,30 @@
-# AiDA: Your Genius Math Assistant
+# AiDA: The Youtube Chat Assistant
 
-Welcome to AiDA, your next-generation AI-powered Math Assistant designed to enhance your mathematical understanding and problem-solving skills. Built with a mix of cutting-edge technologies including Streamlit, LangChain, OpenAI, and various community integrations, AiDA offers a unique conversational experience for exploring mathematical concepts through interactive dialogue and visualizations.
+Welcome to AiDA, a prototype built in 1 day for 42-London Hackathon that was focused on Redefining Education with AI. AiDA enables you to chat with your youtube videos as they play in real-time. It also tries to classify your intent, if you are looking for a summary it sketches a quick chart to explain the main points of the video. The goal is to bring videos to life to improve children's learning experience on youtube. 
 
-## Features
+[![Watch the video](https://example.com/image.jpg)](https://www.youtube.com/watch?v=-rsWLIZn9Wo)
 
-- **Interactive AI Conversations**: Engage with AiDA in a conversational manner to explore mathematical concepts, receive guidance on problems, and much more.
-- **Dynamic Content Retrieval**: AiDA intelligently retrieves relevant information from a variety of sources, including webpages and YouTube, to provide context-rich explanations.
-- **Mermaid Chart Visualization**: Utilize the power of mermaid.js integrated within AiDA to visualize complex workflows and mathematical concepts through dynamically generated flowcharts.
-- **Text-to-Speech Responses**: Experience AiDA's responses not just in text, but also through voice, enhancing the interactive learning process.
-- **Vectorized Document Storage**: Documents and video transcripts are chunked, vectorized, and stored efficiently for quick retrieval using OpenAI embeddings and Chroma.
+P.S: AiDA got 1st place winning the 42 Hackathon.
 
-## Installation
+## Requirements
+
+AiDA is web based app built using **Python** and **streamlit**, it utilizes **Langchain** for Retrieval Augmented Generation (RAG) chatbot, vectorized document storage with **OpenAI** and **Chroma**, GPT/Claude models for analysing quering and chatting, GPT to generate mermaid chart and **streamlit mermaid library** to sketch the chart.
+
+
+## Running AiDA
 
 To get started with AiDA, ensure you have Python 3.6+ installed. Clone this repository and install the required dependencies:
 
 ```bash
 git clone https://github.com/yourgithub/AiDA.git
 cd AiDA
-pip install -r requirements.txt
-```
-
-## Running AiDA
-
-Launch AiDA using Streamlit by running:
-
-```bash
 streamlit run app.py
 ```
 
-Navigate to the provided URL in your web browser to start interacting with AiDA.
-
-## How It Works
-
-AiDA leverages a sophisticated architecture combining LangChain for core messaging and prompt templates, community-contributed document loaders and chat models, and OpenAI's powerful embeddings and chat capabilities. This enables AiDA to understand and assist with a wide range of mathematical queries and topics.
-
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Any contributions you make are **greatly appreciated**. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
