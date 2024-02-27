@@ -2,6 +2,10 @@
 
 Welcome to AiDA, a prototype built in 1 day for 42-London Hackathon that was focused on Redefining Education with AI. AiDA enables you to chat with your youtube videos as they play in real-time. It also tries to classify your intent, if you are looking for a summary it sketches a quick chart to explain the main points of the video. The goal is to bring videos to life to improve children's learning experience on youtube. 
 
+<a href="https://www.youtube.com/watch?v=-rsWLIZn9Wo" target="_blank">
+  <img src="https://github.com/TahaTobaili/AiDA/blob/main/Thumbnail.png" alt="Shit, where is the image?">
+</a>
+
 [![Watch the video](https://github.com/TahaTobaili/AiDA/blob/main/Thumbnail.png)](https://www.youtube.com/watch?v=-rsWLIZn9Wo)
 
 P.S: AiDA got 1st place winning the 42 Hackathon.
