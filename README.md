@@ -23,4 +23,4 @@ streamlit run app.py
 
 ## Contributing
 
-Any contributions you make are **greatly appreciated**. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "issues".
+Any contributions you make are **greatly appreciated**. If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue and give it the correct labels.
