@@ -4,7 +4,7 @@ Welcome to AiDA, a prototype built in 1 day for 42-London Hackathon that was foc
 
 [![Watch the video](https://github.com/TahaTobaili/AiDA/blob/main/Thumbnail.png)](https://www.youtube.com/watch?v=-rsWLIZn9Wo)
 
-P.S: AiDA got 1st place winning the 42 Hackathon.
+**P.S: _AiDA got 1st place winning the 42 Hackathon!_**
 
 ## Requirements
 
